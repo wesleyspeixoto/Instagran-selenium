@@ -1,2 +1,2 @@
-# Instagran-selenium
- Robot to capture instagran data using selenium
+# Linkedin-selenium
+ Robot to capture linkedin data using selenium
